@@ -23,7 +23,5 @@ public class StringSort {
         }
         System.out.println(Arrays.toString(str));
         System.out.println(Arrays.toString(strLen));
-        
-        
     }
 }
