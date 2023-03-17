@@ -3,7 +3,7 @@
 public class Singulars {
     public static void main(String[] args) {
         
-        int[] arrNum =  {10, 20, 20, 10, 10, 30, 50, 10, 20};
+        int[] arrNum =  {10, 20, 20, 10, 10, 30, 50, 10, 20,10,10,10,10};
         int flag =-1;
         int sockCount=0;
         int singulars=0;

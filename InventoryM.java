@@ -87,8 +87,7 @@ public class InventoryM {
                     System.out.println("Enter the product to update the details.");
                     String prod = sc.nextLine();
                     int i = Arrays.asList(productList).indexOf(prod);
-                    System.out
-                            .println("1) Update quantity" + "\n" + "2) Update Specification" + "\n" + "3) Update Cost");
+                    System.out.println("1) Update quantity" + "\n" + "2) Update Specification" + "\n" + "3) Update Cost");
                     System.out.println("Select option 1 to 3 to update");
                     int option = sc.nextInt();
                     switch (option) {
